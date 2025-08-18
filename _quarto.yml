@@ -6,7 +6,7 @@ website:
   title: "my-website"
   navbar:
     background: light
-    left:
+    left: 
       - text: "Home"
         href: index.qmd
       - text: "About" 
@@ -28,8 +28,8 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/amorae-times-02226b122/
   page-footer:
-    left: "© {{< meta year >}} Amorae Times"
-    right: "Built with Quarto"
+    center: "© {date:YYYY} Amorae Times"
+
 
 format:
   html:
