@@ -1,11 +1,19 @@
 ---
-title: "my-website"
+title: "Home"
+page-layout: article
 ---
 
-This is a Quarto website.
+::: home-news
+## News (latest)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   **Sept 2025 — APSA**: Presenting *“The Impact of U.S. Domestic Politics on Democracy Promotion Abroad.”*
+-   **Sept 2025 — APSA Roundtable**: *“Getting Past Primacy: Domestic Politics and the Future of America’s World Role.”*
 
-```{r}
-1 + 1
-```
+→ More on the [**News page**](news.qmd)
+:::
+
+## Welcome
+
+I am a political scientist who examines how domestic politics, race, and global political and economic hierarchies shape the influence and legitimacy of actors in the international system.
+
+Explore [**About**](about.qmd), [**Research**](research.qmd), [**Publications**](publications.qmd), [**Teaching**](teaching_instructor.qmd), and my [**CV**](cv.qmd).

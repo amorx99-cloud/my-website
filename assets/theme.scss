@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+/* Palette */
+$rose-100: #f7e7ee;
+$rose-300: #e8b7c8;
+$rose-500: #d67aa1;   // accents
+$ink-900:  #2b2a30;   // body text
+$parchment:#f8f5ee;   // page bg
+$butter:   #f1e6c8;   // subtle highlight
+$oxblood:  #6b2a33;   // deep headings
+
+/* Bootstrap variable overrides */
+$body-bg:      $parchment;
+$body-color:   $ink-900;
+$link-color:   $rose-500;
+$primary:      $rose-500;
+$navbar-light-bg: #ffffffcc;
+
+/* Typography families (Bootstrap vars) */
+$font-family-sans-serif: 'Inter', system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif !default;
+$headings-font-family: 'Libre Baskerville', Georgia, 'Times New Roman', serif !default;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Inter:wght@400;600&display=swap');
+
+h1, h2, h3 { color: $oxblood; letter-spacing: 0.2px; }
+
+.card { border-radius: 1rem; box-shadow: 0 6px 20px rgba(0,0,0,.06); }
+
+.callout {
+  border-left: 4px solid $rose-500;
+  background: mix($rose-100, #fff, 70%);
+}
+
+.btn-primary {
+  border: none;
+  border-radius: 999px;
+  padding: 0.55rem 1rem;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(180deg, #fff, $parchment);
+  border-bottom: 1px solid rgba(0,0,0,.06);
+}

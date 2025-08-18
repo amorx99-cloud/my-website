@@ -1,0 +1,32 @@
+---
+title: "Curriculum Vitae"
+date: last-modified
+---
+
+> **Download:** [CV (PDF)](assets/cv/Amorae_Times_CV.pdf){.btn .btn-primary .btn-sm}
+
+*Last updated:* {{< meta date >}}
+
+## Education
+
+-   …
+
+## Publications
+
+-   …
+
+## Working Papers
+
+-   …
+
+## Teaching
+
+-   …
+
+## Awards & Grants
+
+-   …
+
+## Skills
+
+-   …

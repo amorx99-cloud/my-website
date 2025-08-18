@@ -1,0 +1,7 @@
+---
+title: "Research — Papers in Progress"
+---
+
+Brief intro sentence about your agenda, then list working papers.
+
+-   **Working Paper Title** — 1–2 sentence abstract or link to draft.

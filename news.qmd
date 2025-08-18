@@ -1,0 +1,7 @@
+---
+title: "News"
+page-layout: article
+---
+
+-   **Sept 2025 — APSA**: Presenting *“The Impact of U.S. Domestic Politics on Democracy Promotion Abroad.”*
+-   **Sept 2025 — APSA Roundtable**: *“Getting Past Primacy: Domestic Politics and the Future of America’s World Role.”*

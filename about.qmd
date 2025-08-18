@@ -1,9 +1,31 @@
 ---
 title: "About"
+image: assets/TimesHeadshot.png
 ---
 
-About this site
+My passion for political science began long before I knew to call it that. As a kid, I loved learning America’s stories of nation-building — the inspirational ones told to children — but I was just as captivated by the histories of slavery, abolition, and the civil rights movement. These narratives made me proud to be a Black American, part of a people who, as Henry Louis Gates Jr. remarked, “walked the stoniest of roads.” At the same time, I was endlessly curious about the rest of the world, far beyond the 5 p.m. news cycles that reduced other societies to wars, failed governments, or natural disasters. In my imagination, people everywhere were also walking stony roads of their own. Those early interests have persisted, shaping how I see connections between humanity, society, and ultimately international politics.
 
-```{r}
-1 + 1
-```
+I pursued this curiosity at **Prairie View A&M University**, graduating in 2021 with a B.A. in Political Science, and I began graduate study at **Rice University** in Fall 2021.
+
+Today, I study how race and global political and economic hierarchies shape interactions in the international system. My research examines how both political and economic actors — from democratic states to multinational corporations — exercise influence, transmit values, and navigate the constraints of hierarchy. Through this work, I aim to advance understanding of the limits and possibilities of power in a changing, multipolar world.
+
+------------------------------------------------------------------------
+
+## Research Areas
+
+-   International Relations\
+-   International Political Economy\
+-   Globalization
+
+## Research Methods
+
+-   Survey Experiments\
+-   Large-N Quantitative Analysis\
+-   Qualitative Research\
+-   Causal Inference
+
+------------------------------------------------------------------------
+
+## Curriculum Vitae
+
+[Download CV (PDF)](assets/cv/Amorae_Times_CV.pdf){.btn .btn-primary .btn-sm}

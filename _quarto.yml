@@ -5,18 +5,43 @@ project:
 website:
   title: "my-website"
   navbar:
+    background: light
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About" 
+        href: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Papers in Progress"
+            href: progress.qmd
+          - text: "Publications"
+            href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Notes"
+        href: notes.qmd
+      - text: "News"
+        href: news.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amorae-times-02226b122/
+  page-footer:
+    left: "© {{< meta year >}} Amorae Times"
+    right: "Built with Quarto"
 
 format:
   html:
+    toc: true
+    toc-location: left
+    smooth-scroll: true
     theme:
       - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      - assets/theme.scss
+    css: assets/custom.css
+    code-link: false
 
-editor: visual
+metadata-files:
+  - _site-meta.yml
 
