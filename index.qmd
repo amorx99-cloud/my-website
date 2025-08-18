@@ -16,4 +16,4 @@ page-layout: article
 
 I am a political scientist who examines how domestic politics, race, and global political and economic hierarchies shape the influence and legitimacy of actors in the international system.
 
-Explore [**About**](about.qmd), [**Research**](research.qmd), [**Publications**](publications.qmd), [**Teaching**](teaching_instructor.qmd), and my [**CV**](cv.qmd).
+Explore [**About**](about.qmd), [**Research**](research.qmd),  [**Teaching**](teaching.qmd), and my [**CV**](cv.qmd).

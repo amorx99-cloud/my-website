@@ -1,6 +1,9 @@
 ---
 title: "About"
-image: assets/TimesHeadshot.png
+about:
+  template: trestles
+  image: assets/TimesHeadshot.png
+  image-shape: round
 ---
 
 My passion for political science began long before I knew to call it that. As a kid, I loved learning America’s stories of nation-building — the inspirational ones told to children — but I was just as captivated by the histories of slavery, abolition, and the civil rights movement. These narratives made me proud to be a Black American, part of a people who, as Henry Louis Gates Jr. remarked, “walked the stoniest of roads.” At the same time, I was endlessly curious about the rest of the world, far beyond the 5 p.m. news cycles that reduced other societies to wars, failed governments, or natural disasters. In my imagination, people everywhere were also walking stony roads of their own. Those early interests have persisted, shaping how I see connections between humanity, society, and ultimately international politics.
@@ -27,5 +30,5 @@ Today, I study how race and global political and economic hierarchies shape inte
 ------------------------------------------------------------------------
 
 ## Curriculum Vitae
-
 [Download CV (PDF)](assets/cv/Amorae_Times_CV.pdf){.btn .btn-primary .btn-sm}
+
