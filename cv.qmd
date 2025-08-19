@@ -1,32 +1,13 @@
 ---
 title: "Curriculum Vitae"
-date: last-modified
+# no date here—we'll read the PDF's timestamp instead
 ---
 
-> **Download:** [CV (PDF)](assets/cv/Amorae_Times_CV.pdf){.btn .btn-primary .btn-sm}
+<!-- If you change the filename or folder, update the path below -->
+_Last updated: `r format(file.info("assets/cv/Amorae_Times_CV.pdf.pdf")$mtime, "%B %d, %Y")`_  
+_File size:_ `r sprintf("%.1f MB", file.info("assets/cv/Amorae_Times_CV.pdf")$size / 1024^2)`  
 
-*Last updated:* {{< meta date >}}
+[Download CV (PDF)](assets/cv/Amorae_Times_CV.pdf){.btn .btn-primary .btn-sm}
 
 ## Education
-
--   …
-
-## Publications
-
--   …
-
-## Working Papers
-
--   …
-
-## Teaching
-
--   …
-
-## Awards & Grants
-
--   …
-
-## Skills
-
--   …
+<!-- your sections go here, or keep this page minimal and just provide the PDF -->

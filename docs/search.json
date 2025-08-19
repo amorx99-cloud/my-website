@@ -4,49 +4,14 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Download: CV (PDF)\nLast updated: August 18, 2025"
+    "text": "Last updated: r format(file.info(\"assets/cv/Amorae_Times_CV.pdf.pdf\")$mtime, \"%B %d, %Y\")\nFile size: r sprintf(\"%.1f MB\", file.info(\"assets/cv/Amorae_Times_CV.pdf\")$size / 1024^2)\nDownload CV (PDF)"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\n…"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\n…"
-  },
-  {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "Curriculum Vitae",
-    "section": "Working Papers",
-    "text": "Working Papers\n\n…"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n\n…"
-  },
-  {
-    "objectID": "cv.html#awards-grants",
-    "href": "cv.html#awards-grants",
-    "title": "Curriculum Vitae",
-    "section": "Awards & Grants",
-    "text": "Awards & Grants\n\n…"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\n\n…"
+    "text": "Education"
   },
   {
     "objectID": "publications.html",
